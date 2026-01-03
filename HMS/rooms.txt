@@ -1,0 +1,8 @@
+101|Basic|100.0|true|Single Bed, WiFi, TV
+102|Basic|100.0|true|Single Bed, WiFi, TV
+103|Basic|100.0|true|Single Bed, WiFi, TV
+201|Deluxe|200.0|true|Queen Bed, WiFi, TV, Mini Bar
+202|Deluxe|200.0|true|Queen Bed, WiFi, TV, Mini Bar
+203|Deluxe|200.0|true|Queen Bed, WiFi, TV, Mini Bar
+301|Suite|350.0|true|King Bed, WiFi, TV, Mini Bar, Jacuzzi, Ocean View
+302|Suite|350.0|true|King Bed, WiFi, TV, Mini Bar, Jacuzzi, Ocean View
